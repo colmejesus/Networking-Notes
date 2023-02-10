@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "710967478b03d9e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f08d1cf63d16ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e538e9be38e36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. Data Link Layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c216cc4930a2fa95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "21. Multiple Access Protocols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8853ea5be9305605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22. Random Access Protocols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96b844666127f9e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23. Ethernet Switch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4cd5c9f00437e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bade91709666b06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f6e9fbc62465edb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "c87d16a8f3b3bb42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "decdac44a87425ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30559db42c7b827f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5712e9f17d4edecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b9caead6f0890e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "23. Ethernet Switch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66ac56349b9cc551",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "23. Ethernet Switch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6ab4c30b73cf918",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93bd08d47cdaa419",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "23. Ethernet Switch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f6e9fbc62465edb",
+  "lastOpenFiles": [
+    "22. Random Access Protocols.md",
+    "21. Multiple Access Protocols.md",
+    "20. Data Link Layer.md",
+    "19. Number System And IP Address.md",
+    "18. Fiber Optic Media.md",
+    "17. Copper Cabling as a Network Media.md",
+    "16. Physical Layer.md",
+    "15. (Incomplete)-Data Access.md",
+    "14. Data Transfer in Network.md",
+    "13. Layered Models.md"
+  ]
+}

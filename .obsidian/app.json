@@ -60,7 +60,16 @@
     "mediu",
     "unfragmented",
     "NIC'",
-    "MDIX"
+    "MDIX",
+    "De-encapsulation",
+    "Decapsulating",
+    "decapsulated",
+    "datagrams",
+    "netstat",
+    "datagram",
+    "s Boradca",
+    "Unicast",
+    "Boradcast"
   ],
   "attachmentFolderPath": "/Attachments"
 }

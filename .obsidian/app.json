@@ -69,7 +69,14 @@
     "datagram",
     "s Boradca",
     "Unicast",
-    "Boradcast"
+    "Boradcast",
+    "routable",
+    "RIRs",
+    "loopback",
+    "oopback ",
+    "Loopback",
+    "routings tables",
+    "ip"
   ],
   "attachmentFolderPath": "/Attachments"
 }

@@ -80,6 +80,66 @@
             }
           },
           {
+            "id": "a61649d1839ee093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28. Types Of IPv4 Addresses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37c8c85d33e922e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "29. Routing Decision Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b192a13985b0244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30. Configuring Initial Router Settings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5140be7c98f828fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30. Configuring Initial Router Settings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4e920d9dcc0e174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31. Configuring Interfaces & Default Gateway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c216cc4930a2fa95",
             "type": "leaf",
             "state": {
@@ -116,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27. IPv4 Addresses in a Network.md",
+                "file": "31. Configuring Interfaces & Default Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27. IPv4 Addresses in a Network.md",
+                "file": "31. Configuring Interfaces & Default Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27. IPv4 Addresses in a Network.md"
+                "file": "31. Configuring Interfaces & Default Gateway.md"
               }
             }
           }
@@ -243,17 +303,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a36c6d79dce7b4b",
+  "active": "d4e920d9dcc0e174",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "30. Configuring Initial Router Settings.md",
+    "31. Configuring Interfaces & Default Gateway.md",
+    "29. Routing Decision Process.md",
+    "28. Types Of IPv4 Addresses.md",
+    "27. IPv4 Addresses in a Network.md",
     "26. Introduction to Routing.md",
     "25. Host Routes.md",
-    "Untitled 1.md",
     "24. Network Layer.md",
-    "14. Data Transfer in Network.md",
-    "16. Physical Layer.md",
-    "18. Fiber Optic Media.md",
-    "19. Number System And IP Address.md",
-    "22. Random Access Protocols.md",
-    "23. Ethernet Switch.md"
+    "14. Data Transfer in Network.md"
   ]
 }

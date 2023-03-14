@@ -80,7 +80,16 @@
     "Subnetting",
     "subnetting",
     "subnetting",
-    "FLSM"
+    "FLSM",
+    "Hextet",
+    "Anycast",
+    "anycast",
+    "APIPA",
+    "unicast",
+    "unicast",
+    "SLAAC",
+    "EUI",
+    "LLAs"
   ],
   "attachmentFolderPath": "/Attachments"
 }

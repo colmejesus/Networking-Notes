@@ -44,6 +44,66 @@
             }
           },
           {
+            "id": "3a1eab078bc98aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "34. IPv4 vs IPv6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a0f894a8402d20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "35. IPv6 Address Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd5bf57cc0c980b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "36. IPv6 - Obtaining GUA Address.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134e948060333060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "37. IPv6 - Local Link Address Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "004c26c40ac1afbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "38. Assigned Multicast Addresses and IPv6 Subnetting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9d7809b06564e390",
             "type": "leaf",
             "state": {
@@ -212,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -278,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "33. Subnetting.md",
+                "file": "38. Assigned Multicast Addresses and IPv6 Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "33. Subnetting.md",
+                "file": "38. Assigned Multicast Addresses and IPv6 Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "33. Subnetting.md"
+                "file": "38. Assigned Multicast Addresses and IPv6 Subnetting.md"
               }
             }
           }
@@ -339,10 +399,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d4e9ea07f7cc799",
+  "active": "004c26c40ac1afbf",
   "lastOpenFiles": [
-    "24. Network Layer.md",
+    "37. IPv6 - Local Link Address Configuration.md",
+    "38. Assigned Multicast Addresses and IPv6 Subnetting.md",
+    "36. IPv6 - Obtaining GUA Address.md",
+    "35. IPv6 Address Types.md",
+    "34. IPv4 vs IPv6.md",
     "33. Subnetting.md",
+    "24. Network Layer.md",
     "32. Collision And Broadcast Domain.md",
     "31. Configuring Interfaces & Default Gateway.md",
     "Untitled 1.md",
